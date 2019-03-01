@@ -1,8 +1,5 @@
 #pragma once
 
-#include <string>
-#include <iostream>
-
 namespace result {
   template <typename T, typename E = const char *>
   struct Result {
